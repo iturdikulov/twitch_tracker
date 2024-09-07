@@ -3,6 +3,8 @@
 The goal of the project is to try out some testing methods and tools, there are
 no special plans for development.
 
+Progress can be tracked in [TODO.md](TODO.md).
+
 ## Problems
 
 Service/application to solve specific problems:
@@ -21,32 +23,31 @@ select category, we create special background task.
 
 ## Resources
 
-https://realpython.com/flask-connexion-rest-api/
-https://github.com/Teekeks/pyTwitchAPI/blob/master/twitchAPI/twitch.py
-https://docs.sqlalchemy.org/en/20/orm/dataclasses.html
-https://flask.palletsprojects.com/en/3.0.x/quickstart/
-
-https://dev.twitch.tv/docs/api/reference/#search-channels
-https://dev.twitch.tv/docs/api/reference/#search-categories
-https://dev.twitch.tv/docs/api/reference/#get-streams
-https://dev.twitch.tv/docs/api/reference/#get-games
-https://dev.twitch.tv/docs/api/reference/#get-channel-emotes
-https://dev.twitch.tv/docs/api/reference/#get-channel-information
-https://api-docs.igdb.com/
-
-https://grafana.com/grafana/dashboards/4279-rabbitmq-monitoring/
+- https://realpython.com/flask-connexion-rest-api/
+- https://github.com/Teekeks/pyTwitchAPI/blob/master/twitchAPI/twitch.py
+- https://docs.sqlalchemy.org/en/20/orm/dataclasses.html
+- https://flask.palletsprojects.com/en/3.0.x/quickstart/
+- https://dev.twitch.tv/docs/api/reference/#search-channels
+- https://dev.twitch.tv/docs/api/reference/#search-categories
+- https://dev.twitch.tv/docs/api/reference/#get-streams
+- https://dev.twitch.tv/docs/api/reference/#get-games
+- https://dev.twitch.tv/docs/api/reference/#get-channel-emotes
+- https://dev.twitch.tv/docs/api/reference/#get-channel-information
+- https://api-docs.igdb.com/
+- https://grafana.com/grafana/dashboards/4279-rabbitmq-monitoring/
 
 ## Dependencies
 
-aio-pika
-flask
-flask-sqlalchemy
-sqlite
-dpath-python
-cattrs
-attrs
-pytest
-pytest-recording
+- sqlite
 
-react
-vite
+- aio-pika
+- flask
+- flask-sqlalchemy
+- dpath-python
+- cattrs
+- attrs
+- pytest
+- pytest-recording
+
+- react
+- vite
