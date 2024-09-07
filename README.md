@@ -1,7 +1,9 @@
 ## Goals
 
-The goal of the project is to try out some testing methods and tools, there are
-no special plans for development.
+Current main goal of the project is to try out some testing methods and tools
+(frameworks and libraries).
+
+Secondary goal is build analytic and some cool integrations with Twitch API.
 
 Progress can be tracked in [TODO.md](TODO.md).
 
