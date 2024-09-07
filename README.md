@@ -51,5 +51,4 @@ select category, we create special background task.
 - pytest
 - pytest-recording
 
-- react
-- vite
+- react + vite
