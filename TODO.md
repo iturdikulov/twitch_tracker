@@ -1,5 +1,5 @@
 # TODO
 
-- [ ] Initialize git, poetry repo
-- [ ] Initialize twitch app
+- [x] Initialize git, poetry repo, dependencies
+- [ ] Minimal workflow to interact with Twitch API
 - [ ] Play with aio-pika
